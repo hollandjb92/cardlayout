@@ -1,0 +1,13 @@
+.bio {
+  margin-top: 50px;
+}
+
+h1 {
+  text-align: right;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  float: right;
+}
